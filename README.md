@@ -10,6 +10,6 @@ Open your webcam to read an image of your face
 ## Extract hand region from webcam video using color trackbar. 
 
 Reference:
-https://docs.opencv.org/master/d9/dc8/tutorial_py_trackbar.html
-https://docs.opencv.org/master/db/d5b/tutorial_py_mouse_handling.html
-https://theailearner.com/tag/cv2-inrange-opencv-python/ 
+* https://docs.opencv.org/master/d9/dc8/tutorial_py_trackbar.html
++ https://docs.opencv.org/master/db/d5b/tutorial_py_mouse_handling.html
++ https://theailearner.com/tag/cv2-inrange-opencv-python/ 
